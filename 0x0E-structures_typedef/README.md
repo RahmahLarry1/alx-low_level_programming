@@ -1,0 +1,1 @@
+learning structure and typedef
